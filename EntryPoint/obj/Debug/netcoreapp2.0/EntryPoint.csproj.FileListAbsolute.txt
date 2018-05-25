@@ -1,0 +1,11 @@
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\bin\Debug\netcoreapp2.0\EntryPoint.deps.json
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\bin\Debug\netcoreapp2.0\EntryPoint.runtimeconfig.json
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\bin\Debug\netcoreapp2.0\EntryPoint.runtimeconfig.dev.json
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\bin\Debug\netcoreapp2.0\EntryPoint.dll
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\bin\Debug\netcoreapp2.0\EntryPoint.pdb
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\obj\Debug\netcoreapp2.0\EntryPoint.csprojAssemblyReference.cache
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\obj\Debug\netcoreapp2.0\EntryPoint.csproj.CoreCompileInputs.cache
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\obj\Debug\netcoreapp2.0\EntryPoint.AssemblyInfoInputs.cache
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\obj\Debug\netcoreapp2.0\EntryPoint.AssemblyInfo.cs
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\obj\Debug\netcoreapp2.0\EntryPoint.dll
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\C-Sharp-Practice\EntryPoint\obj\Debug\netcoreapp2.0\EntryPoint.pdb
