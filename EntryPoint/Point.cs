@@ -3,7 +3,17 @@ class User
   // Q: Are ; needed in C#?
   // A: Yes
 
-  // private fields are accessible only within the class, nto outside of it
+  // const must be given a value on declaration
+  public const int HEIGHT = 180;
+
+  // readonly gets its value further down the line in the code
+  public readonly int ID;
+
+  
+  // accessible even if the class is not instantiated yet
+  public static int currentID;
+
+  // private fields are accessible only within the class, not outside of it
   private string username;
   private int password;
 
@@ -30,9 +40,10 @@ class User
     } 
   }
 
-  public User()
+  public User(string username)
   {
-    // this.username = username;
-    // this.password = password;
+    this.username = username;
+    currentID++;
+    ID = currentID;
   }
 }
